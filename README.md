@@ -38,5 +38,5 @@ python leap_year.py
 
 # output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/3b2dc2d8-213b-49e6-a978-5ce6c0b1431c" />
 
